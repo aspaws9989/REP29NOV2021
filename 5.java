@@ -1,0 +1,4 @@
+publiv void stat main()
+{
+
+}
